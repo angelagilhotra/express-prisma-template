@@ -1,5 +1,6 @@
 # template
 forked from wall of love api
+just backend
 
 ## add heroku remote 
 `$ heroku git:remote -a <APP_NAME>` 
