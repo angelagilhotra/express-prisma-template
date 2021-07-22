@@ -1,4 +1,4 @@
-# boilerplate
+# template
 forked from wall of love api
 
 ## add heroku remote 
